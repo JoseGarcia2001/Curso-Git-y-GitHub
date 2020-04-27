@@ -1,5 +1,22 @@
 body {
-  color: deeppink;
+  color: black;
   text-align: center;
-  font-family: "Arial";
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+}
+
+.contenedor {
+  width: 70%;
+  padding: 1em;
+  border: 1px solid black;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.contenedor h1 {
+  font-size: 30px;
+}
+
+.contenedor p {
+  font-size: 12px;
 }
