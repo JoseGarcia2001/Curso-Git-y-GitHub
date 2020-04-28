@@ -12,7 +12,7 @@ body {
 
 ol {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   height: 70px;
   align-items: center;
   list-style: none;
