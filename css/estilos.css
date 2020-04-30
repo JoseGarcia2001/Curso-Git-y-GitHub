@@ -6,7 +6,6 @@ body {
 }
 
 .header {
-  background-color: #1b2127;
   color: white;
 }
 
@@ -20,6 +19,7 @@ ol {
   padding: 0;
   border: 1px solid black;
   border-radius: 5px;
+  background: lightblue;
 }
 
 .contenedor {
