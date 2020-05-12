@@ -1,3 +1,13 @@
 # hyperblog-platzi
+
 Creación de un blog para el curso de Git y Giyhub de Platzi
-cambio esta linea por prueba
+
+> Esto es un ejemplo de README para aprender buenas practicas
+
+[========]
+
+```cpp
+<p>
+Asi funciona
+</p>
+```
