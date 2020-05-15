@@ -11,3 +11,5 @@ Creación de un blog para el curso de Git y Giyhub de Platzi
 Asi funciona
 </p>
 ```
+
+master 1
