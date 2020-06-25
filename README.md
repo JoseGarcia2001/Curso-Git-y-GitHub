@@ -1,4 +1,4 @@
-#PLATZI
+##PLATZI
 
 ### Curso de Git y GitHub
 
