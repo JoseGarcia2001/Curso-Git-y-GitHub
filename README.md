@@ -8,5 +8,5 @@ Este repocitorio alberga todo el contenido utilizado en el curso de Platzi profe
 
 - Utilizar dominios personalizados con GitHub Pages
 
-NOTA: Es totalmente irrelevante el contenido implícito en los documentos y fue usado únicamente con fines educativos, no con el propósito de que fuese estético ni su contenido importante.
+NOTA: *Es totalmente irrelevante el contenido implícito en los documentos y fue usado únicamente con fines educativos, no con el propósito de que fuese estético ni su contenido importante.*
 
