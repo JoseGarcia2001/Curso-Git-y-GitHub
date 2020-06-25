@@ -1,24 +1,11 @@
-# hyperblog-platzi
+#PLATZI
 
-Creación de un blog para el curso de Git y Giyhub de Platzi
+### Curso de Git y GitHub
 
-> Esto es un ejemplo de README para aprender buenas practicas
+Este repocitorio alberga todo el contenido utilizado en el curso profesional de Git y GitHub, para aprender entre otras cosas:
 
-[========]
+- #####Comandos necesarios para utilizar Git de una manera fluida y profesional, anteponiendo las buenas prácticas
 
-```cpp
-<p>
-Asi funciona
-</p>
-```
+- #####Flujos de trabajo de manera profesional en los proyectos
 
-master 1
-Experimento 1
-
-Experimento 2 asdasdasd
-
-prueba de stash ay dooo
-
-\*Creado por el increible Joselo
-\*Probando amend
-\*La otra cosa xdd
+- #####Utilizar dominios personalizados con GitHub Pages
